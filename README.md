@@ -1,1 +1,1 @@
-My first animated website built using React and several animation tools.
+Tried building an animated website built using React and several animation tools.
